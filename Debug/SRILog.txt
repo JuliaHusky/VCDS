@@ -1,0 +1,310 @@
+Thursday,20,October,2016,20:17:50:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	3             	---       
+41       	Time since Service                                	Days      	16            	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	7             	---       
+48       	Thermal Load                                      	km x100   	3             	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Sunday,01,October,2017,17:03:21:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	80            	---       
+41       	Time since Service                                	Days      	362           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	289           	---       
+48       	Thermal Load                                      	km x100   	75            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Friday,13,October,2017,20:12:08:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	82            	---       
+41       	Time since Service                                	Days      	374           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	303           	---       
+48       	Thermal Load                                      	km x100   	78            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Friday,13,October,2017,20:13:48:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	82            	---       
+41       	Time since Service                                	Days      	374           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	303           	---       
+48       	Thermal Load                                      	km x100   	78            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Saturday,12,September,2020,10:22:13:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	---       
+40       	Mileage since Service                             	miles x100	99            	---       
+41       	Time since Service                                	Days      	560           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	243           	---       
+48       	Thermal Load                                      	km x100   	81            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Wednesday,17,November,2021,16:36:18:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+WAUZZZ8P57A028400
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	24            	---       
+41       	Time since Service                                	Days      	401           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	55            	---       
+48       	Thermal Load                                      	km x100   	21            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Wednesday,17,November,2021,16:37:16:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+WAUZZZ8P57A028400
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	24            	---       
+41       	Time since Service                                	Days      	401           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	55            	---       
+48       	Thermal Load                                      	km x100   	21            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+Wednesday,17,November,2021,16:37:31:62939
+Operation: Service Reset -- 2/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	0         
+40       	Mileage since Service                             	miles x100	24            	---       
+41       	Time since Service                                	Days      	401           	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	55            	---       
+48       	Thermal Load                                      	km x100   	21            	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************
+The new values have been saved successfully, SRI reset complete!
+
+Wednesday,12,October,2022,11:03:22:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 982 C       Labels:  8P0-920-xxx-17-MY8.clb
+Component:KOMBIINSTR. VDO H19 0860, Coding:0004428
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	---       
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	---       
+43       	Maximum Distance to Service                       	km x100   	300           	---       
+44       	Maximum Time to Service                           	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	---       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	---       
+51       	Basic Time Value for Oil Change                   	Days      	365           	---       
+52       	Basic Distance Value for Inspection               	km x100   	307           	---       
+53       	Distance since Inspection                         	km x100   	514           	---       
+54       	Basic Time Value for Inspection                   	Days      	730           	---       
+55       	Time since Inspection                             	Days      	1012          	---       
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+Wednesday,12,October,2022,11:04:19:62939
+Operation: Time based Service Reset (Rest of World & Great Britain) -- 2/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	---       
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	---       
+43       	Maximum Distance to Service                       	km x100   	300           	---       
+44       	Maximum Time to Service                           	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	---       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	---       
+51       	Basic Time Value for Oil Change                   	Days      	365           	---       
+52       	Basic Distance Value for Inspection               	km x100   	307           	---       
+53       	Distance since Inspection                         	km x100   	514           	---       
+54       	Basic Time Value for Inspection                   	Days      	730           	730       
+55       	Time since Inspection                             	Days      	1012          	0         
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+The new values have been saved successfully, SRI reset complete!
+
+Wednesday,12,October,2022,11:05:45:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+Control Module Part Number: 8P0 920 982 C       Labels:  8P0-920-xxx-17-MY8.clb
+Component:KOMBIINSTR. VDO H19 0860, Coding:0004428
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	---       
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	---       
+43       	Maximum Distance to Service                       	km x100   	300           	---       
+44       	Maximum Time to Service                           	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	---       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	---       
+51       	Basic Time Value for Oil Change                   	Days      	365           	---       
+52       	Basic Distance Value for Inspection               	km x100   	307           	---       
+53       	Distance since Inspection                         	km x100   	514           	---       
+54       	Basic Time Value for Inspection                   	Days      	730           	---       
+55       	Time since Inspection                             	Days      	0             	---       
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+Wednesday,12,October,2022,11:06:13:62939
+Operation: Flexible Oil Service Reset (LongLife/Great Britain/Diesel) -- 2/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	0         
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	145       
+43       	Maximum Distance to Service                       	km x100   	300           	306       
+44       	Maximum Time to Service                           	Days      	730           	730       
+45       	Oil Quality                                       	          	1             	2         
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	730       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	---       
+51       	Basic Time Value for Oil Change                   	Days      	365           	---       
+52       	Basic Distance Value for Inspection               	km x100   	307           	---       
+53       	Distance since Inspection                         	km x100   	514           	---       
+54       	Basic Time Value for Inspection                   	Days      	730           	---       
+55       	Time since Inspection                             	Days      	0             	---       
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+The new values have been saved successfully, SRI reset complete!
+
+Wednesday,12,October,2022,11:06:56:62939
+Operation: Fixed Oil Service Reset (Great Britain) -- 3/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	0         
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	---       
+43       	Maximum Distance to Service                       	km x100   	300           	---       
+44       	Maximum Time to Service                           	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	1         
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	---       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	150       
+51       	Basic Time Value for Oil Change                   	Days      	365           	365       
+52       	Basic Distance Value for Inspection               	km x100   	307           	---       
+53       	Distance since Inspection                         	km x100   	514           	---       
+54       	Basic Time Value for Inspection                   	Days      	730           	---       
+55       	Time since Inspection                             	Days      	0             	---       
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+The new values have been saved successfully, SRI reset complete!
+
+Wednesday,12,October,2022,11:07:35:62939
+Operation: Mileage based Service Reset (Great Britain) -- 4/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	1             	---       
+40       	Distance since Service                            	km x100   	43            	---       
+41       	Time since Service                                	Days      	57            	---       
+42       	Minimum Distance to Service                       	km x100   	145           	---       
+43       	Maximum Distance to Service                       	km x100   	300           	---       
+44       	Maximum Time to Service                           	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	75            	---       
+48       	Thermal Load                                      	km x100   	27            	---       
+49       	Minimum Time to Service                           	Days      	730           	---       
+50       	Basic Distance Value for Oil Change               	km x100   	145           	---       
+51       	Basic Time Value for Oil Change                   	Days      	365           	---       
+52       	Basic Distance Value for Inspection               	km x100   	307           	190       
+53       	Distance since Inspection                         	km x100   	514           	0         
+54       	Basic Time Value for Inspection                   	Days      	730           	---       
+55       	Time since Inspection                             	Days      	0             	---       
+56       	Day Counter                                       	Days      	5024          	---       
+************************************************************************************************************************
+The new values have been saved successfully, SRI reset complete!
+
+Saturday,16,September,2023,15:45:45:62939
+VCDS Release 12.12.0:  SRI Reset -- Data version: 20130910
+WAUZZZ8P57A028400
+Control Module Part Number: 8P0 920 981 F       Labels:  8P0-920-xxx-17-MY7.lbl
+Component:KOMBIINSTR. VDO H18 0560, Coding:0004413
+Operation: Please select an operation -- 1/2
+************************************************************************************************************************
+Channel  	Description                                       	Unit      	Current val.  	New val.  
+02       	Service Reminder Status                           	          	0             	---       
+40       	Mileage since Service                             	miles x100	5             	---       
+41       	Time since Service                                	Days      	59            	---       
+42       	Min Mileage to Service                            	miles x100	90            	---       
+43       	Max Mileage to Service                            	miles x100	90            	---       
+44       	Max Time to Service                               	Days      	730           	---       
+45       	Oil Quality                                       	          	1             	---       
+47       	Soot Quantity                                     	km x100   	11            	---       
+48       	Thermal Load                                      	km x100   	3             	---       
+49       	Min Time to Service                               	Days      	730           	---       
+************************************************************************************************************************

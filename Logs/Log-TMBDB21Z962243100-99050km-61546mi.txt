@@ -1,0 +1,310 @@
+Monday,08,January,2024,19:06:50:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+VIN: TMBDB21Z962243100   License Plate: 
+Mileage: 99050km-61546mi   Repair Order: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Chassis Type: 1Z (1K0)
+Scan: 01 03 08 09 15 16 17 19 25 42 44 46 52 56
+
+VIN: TMBDB21Z962243100   Mileage: 99050km/61546miles
+
+00-Steering Angle Sensor -- Status: OK 0000
+01-Engine -- Status: Malfunction 0010
+03-ABS Brakes -- Status: OK 0000
+08-Auto HVAC -- Status: Cannot be reached 1100
+09-Cent. Elect. -- Status: Malfunction 0010
+15-Airbags -- Status: Malfunction 0010
+16-Steering wheel -- Status: OK 0000
+17-Instruments -- Status: OK 0000
+19-CAN Gateway -- Status: Malfunction 0010
+25-Immobilizer -- Status: OK 0000
+42-Door Elect, Driver -- Status: Malfunction 0010
+44-Steering Assist -- Status: OK 0000
+46-Central Conv. -- Status: OK 0000
+52-Door Elect, Pass. -- Status: OK 0000
+56-Radio -- Status: Cannot be reached 1100
+ 
+-------------------------------------------------------------------------------
+Address 01: Engine        Labels: 03C-906-056-BAG.lbl
+   Part No SW: 03C 906 056 CM    HW: Hardware No 
+   Component: MED9.5.10        00 9281  
+   Revision: --H08---    Serial number: SKZ7Z0F3493435
+   Coding: 0000071
+   Shop #: WSC 65793 128 08224
+   VCID: 70EF364B6356C89E643-8025
+
+3 Faults Found:
+000152 - Intake Air Temperature Sensor 2 (G299) 
+               P0098 - 002 - Signal too Low
+             Freeze Frame:
+                    Fault Status: 01100010
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 99053 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 01:26:04
+
+             Freeze Frame:
+                    RPM: 680 /min
+                    Load: 21.6 %
+                    Speed: 0.0 km/h
+                    Temperature: 72.0°C
+
+049508 - No Communications with HVAC Control Module (J301) 
+               U0164 - 008 - 
+             Freeze Frame:
+                    Fault Status: 01101000
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 99053 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 01:26:04
+
+             Freeze Frame:
+                    RPM: 640 /min
+                    Load: 21.6 %
+                    Speed: 0.0 km/h
+                    Temperature: 72.0°C
+
+000406 - Engine Oil Temp. Sensor (G8) 
+               P0196 - 004 - Implausible Signal
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 0
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 99053 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 01:27:04
+
+             Freeze Frame:
+                    RPM: 640 /min
+                    Load: 25.1 %
+                    Speed: 0.0 km/h
+                    Temperature: 74.0°C
+
+Readiness: 1110 0001
+
+-------------------------------------------------------------------------------
+Address 03: ABS Brakes        Labels: 1K0-907-379-MK70.lbl
+   Part No: 1K0 907 379 P
+   Component: ASR FRONT MK70      0105  
+   Coding: 0017025
+   Shop #: WSC 73430 790 00000
+   VCID: 3F8DA5776E8867E6AD9-806A
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 08: Auto HVAC
+Cannot be reached
+
+-------------------------------------------------------------------------------
+Address 09: Cent. Elect.        Labels: 3C0-937-049-23-M.lbl
+   Part No SW: 3C0 937 049 D    HW: 3C0 937 049 D
+   Component: Bordnetz-SG     H37 1002  
+   Revision: 00H37000    Serial number: 00000003996348
+   Coding: 008C0F030004140000110D000000000000097B075C
+   Shop #: WSC 73430 790 12345
+   VCID: 2A5BE423850AF24EEA7-807F
+
+   Subsystem 1 - Part No: 1Z2 955 119 A  Labels: 1KX-955-119.CLB
+   Component: Wischer SK351  012  0401  
+   Coding: 00063477
+   Shop #: WSC 73430  
+
+2 Faults Found:
+01320 - Control Module for Climatronic (J255) 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 254
+                    Reset counter: 24
+                    Mileage: 98147 km
+                    Time Indication: 0
+
+             Freeze Frame:
+                        ON
+                    Voltage: 14.30 V
+                        ON
+                        ON
+                        OFF
+                        OFF
+                        OFF
+
+00446 - Function Limitation due to Under-Voltage 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 4
+                    Fault Frequency: 1
+                    Reset counter: 63
+                    Mileage: 99053 km
+                    Time Indication: 0
+
+             Freeze Frame:
+                        OFF
+                    Voltage: 9.30 V
+                        OFF
+                        ON
+                        OFF
+                        OFF
+                        OFF
+
+
+-------------------------------------------------------------------------------
+Address 15: Airbags        Labels: 1K0-909-605.lbl
+   Part No SW: 1K0 909 605 R    HW: 1K0 909 605 R
+   Component: Q4 AIRBAG VW8   018 2200  
+   Revision: 02018000    Serial number: 0038MD09RVD/  
+   Coding: 0020788
+   Shop #: WSC 73430 790 00000
+   VCID: 3B75D1677A907BC6811-806E
+
+   Subsystem 1 - Serial number: 6332MSME0D7D0972M
+
+   Subsystem 2 - Serial number: 6342MSME0D7C6048M
+
+1 Fault Found:
+00532 - Supply Voltage B+ 
+            002 - Lower Limit Exceeded - Intermittent
+
+-------------------------------------------------------------------------------
+Address 16: Steering wheel        Labels: 1K0-953-549-MY8.lbl
+   Part No SW: 1K0 953 549 AE    HW: 1K0 953 549 AE
+   Component: Lenksäulenmodul 034 0070  
+   Coding: 0000002
+   Shop #: WSC 73430 790 00000
+   VCID: 75E1075F1C34EDB6B75-8020
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 17: Instruments        Labels: 1K0-920-xxx-17.lbl
+   Part No: 1Z0 920 900 B
+   Component: KOMBIINSTRUMENT VD1 3562  
+   Coding: 0001401
+   Shop #: WSC 24066 576 88149
+   VCID: 3169F34FA8DC81962BD-8064
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 19: CAN Gateway        Labels: 1K0-907-530-V1.clb
+   Part No SW: 1K0 907 530 F    HW: 1K0 907 951 
+   Component: Gateway         H10 0120  
+   Revision:   H10       Serial number: 28001062262079
+   Coding: 3D0F0340071303
+   Shop #: WSC 73430 790 00000
+   VCID: 2A5BE423850AF24EEA7-807F
+
+3 Faults Found:
+01320 - Control Module for Climatronic (J255) 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 48
+                    Reset counter: 23
+                    Mileage: 98147 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 17:49:37
+
+01305 - Databus for Infotainment 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 1
+                    Fault Frequency: 254
+                    Reset counter: 23
+                    Mileage: 98147 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 17:49:38
+
+01304 - Radio 
+            004 - No Signal/Communication
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 254
+                    Reset counter: 23
+                    Mileage: 98147 km
+                    Time Indication: 0
+                    Date: 2000.00.00
+                    Time: 17:49:41
+
+
+-------------------------------------------------------------------------------
+Address 25: Immobilizer
+Cannot be reached
+
+-------------------------------------------------------------------------------
+Address 42: Door Elect, Driver        Labels: 1K0-959-701-MIN2.lbl
+   Part No: 1T0 959 701 B
+   Component: Tuer-SG         024 2346  
+   Coding: 0000564
+   Shop #: WSC 73430 790 00000
+   VCID: 3663C05341B2A6AE7EF-8063
+
+1 Fault Found:
+00100 - Drivers Interior Locking Button (E308) 
+            008 - Implausible Signal - Intermittent
+
+-------------------------------------------------------------------------------
+Address 44: Steering Assist        Labels: 1Kx-909-14x-44.clb
+   Part No: 1K2 909 144 K
+   Component: EPS_ZFLS Kl.5   D06 1701  
+   Shop #: WSC 00000 000 00000
+   VCID: 3467FA5B57CEB4BE40B-8061
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 46: Central Conv.        Labels: 1K0-959-433-MIN.clb
+   Part No: 1K0 959 433 AH
+   Component:    KSG              0401  
+   Coding: 11D002003F098505095B010004CC
+   Shop #: WSC 73430 790 12345
+   VCID: 76E300530132E6AEBEF-8023
+
+   Subsystem 1 - Component:   Sounder n.mounted     
+
+   Subsystem 2 - Component:       NGS n.mounted     
+
+   Subsystem 3 - Component:      IRUE n.mounted     
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 52: Door Elect, Pass.        Labels: 1K0-959-702-MIN2.lbl
+   Part No: 1T0 959 702 B
+   Component: Tuer-SG         024 2346  
+   Coding: 0000572
+   Shop #: WSC 73430 790 00000
+   VCID: 377DCD5746B85FA6659-8062
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 56: Radio
+Cannot be reached
+
+End   ---------------------------------------------------------------------

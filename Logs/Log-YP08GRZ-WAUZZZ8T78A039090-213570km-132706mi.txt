@@ -1,0 +1,890 @@
+Tuesday,26,November,2024,11:24:03:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+VIN: WAUZZZ8T78A039090   License Plate: YP08GRZ
+Mileage: 213570km-132706mi   Repair Order: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Chassis Type: 8T (8T0)
+Scan: 01 03 05 06 07 08 09 0E 10 15 16 17 19 36 37 42 46 47 52 53
+          55 56 57
+
+VIN: WAUZZZ8T78A039090   Mileage: 213570km/132706miles
+
+01-Engine -- Status: Malfunction 1010
+03-ABS Brakes -- Status: Malfunction 0010
+04-Steering Angle -- Status: OK 0000
+05-Acc/Start Auth. -- Status: Malfunction 0010
+06-Seat Mem. Pass -- Status: Malfunction 0010
+07-Control Head -- Status: OK 0000
+08-Auto HVAC -- Status: Malfunction 0010
+09-Cent. Elect. -- Status: Malfunction 0010
+0E-Media Player 1 -- Status: Malfunction 0010
+10-Park/Steer Assist -- Status: Malfunction 0010
+15-Airbags -- Status: OK 0000
+16-Steering wheel -- Status: Malfunction 0010
+17-Instruments -- Status: Malfunction 0010
+19-CAN Gateway -- Status: Malfunction 0010
+36-Seat Mem. Drvr -- Status: Malfunction 0010
+37-Navigation -- Status: Malfunction 0010
+42-Door Elect, Driver -- Status: Malfunction 0010
+46-Central Conv. -- Status: Malfunction 0010
+47-Sound System -- Status: Malfunction 0010
+52-Door Elect, Pass. -- Status: Malfunction 0010
+53-Parking Brake -- Status: OK 0000
+55-Xenon Range -- Status: Malfunction 0010
+56-Radio -- Status: OK 0000
+57-TV Tuner -- Status: OK 0000
+ 
+-------------------------------------------------------------------------------
+Address 01: Engine (J623-CAUA)       Labels: 079-907-560-CAU.clb
+   Part No SW: 8T0 907 560 F    HW: 8T0 907 560 
+   Component: 4.2l V8/4V    H10 0004  
+   Revision: 76H10---    
+   Coding: 01140003180F0020
+   Shop #: WSC 00720 210 88420
+   VCID: 3D71DF7FA48475F6BF5-8068
+
+6 Faults Found:
+004200 - Intake Air Switch-Over Valve (N335) 
+               P1068 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 2
+                    Reset counter: 255
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.20
+                    Time: 15:47:52
+
+             Freeze Frame:
+                    RPM: 1652 /min
+                    Load: 24.3 %
+                    Speed: 0.0 km/h
+                    Temperature: 15.0°C
+                    Temperature: 15.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 10.287 V
+
+001431 - Thermostat for Mapped Engine Cooling (F265) 
+               P0597 - 004 - Open Circuit - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 2
+                    Fault Frequency: 71
+                    Reset counter: 255
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.20
+                    Time: 15:47:52
+
+             Freeze Frame:
+                    RPM: 173 /min
+                    Load: 100.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 11.0°C
+                    Temperature: 12.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 9.906 V
+
+000768 - Random/Multiple Cylinder Misfire Detected 
+               P0300 - 001 -  - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 213525 km
+                    Time Indication: 0
+                    Date: 2024.05.31
+                    Time: 07:42:23
+
+             Freeze Frame:
+                    RPM: 3735 /min
+                    Load: 98.4 %
+                    Speed: 75.0 km/h
+                    Temperature: 102.0°C
+                    Temperature: 15.0°C
+                    Absolute Pres.: 1010.0 mbar
+                    Voltage: 14.351 V
+
+000772 - Cylinder 4 
+               P0304 - 001 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 213525 km
+                    Time Indication: 0
+                    Date: 2024.05.31
+                    Time: 07:42:23
+
+             Freeze Frame:
+                    RPM: 3735 /min
+                    Load: 98.4 %
+                    Speed: 75.0 km/h
+                    Temperature: 102.0°C
+                    Temperature: 15.0°C
+                    Absolute Pres.: 1010.0 mbar
+                    Voltage: 14.351 V
+
+005634 - Power Supply Terminal 30 
+               P1602 - 002 - Voltage too Low - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 0 km
+                    Time Indication: 0
+
+             Freeze Frame:
+                    RPM: 0 /min
+                    Load: 0.0 %
+                    Speed: 0.0 km/h
+                    Temperature: -40.0°C
+                    Temperature: -40.0°C
+                    Absolute Pres.: 0.0 mbar
+                    Voltage: 0.000 V
+
+000776 - Cylinder 8 
+               P0308 - 001 - Misfire Detected - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 213556 km
+                    Time Indication: 0
+                    Date: 2007.10.27
+                    Time: 17:11:54
+
+             Freeze Frame:
+                    RPM: 991 /min
+                    Load: 31.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 17.0°C
+                    Temperature: 9.0°C
+                    Absolute Pres.: 1010.0 mbar
+                    Voltage: 14.351 V
+
+Readiness: 0000 1000
+
+-------------------------------------------------------------------------------
+Address 03: ABS Brakes (J104)       Labels: 8K0-907-379.clb
+   Part No SW: 8K0 907 379 S    HW: 8K0 907 379 S
+   Component: ESP8 quattro  H04 0210  
+   Revision: --------    Serial number: --------------
+   Coding: 114500
+   Shop #: WSC 06325 000 00000
+   VCID: 4999BBAFE04CD95603D-801C
+
+1 Fault Found:
+00447 - Function Limitation due to Over-Voltage 
+            001 - Upper Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 1
+                    Fault Frequency: 3
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:01
+
+             Freeze Frame:
+                    Hex Value: 0x0000
+                    Hex Value: 0x02A0
+                    Hex Value: 0x0029
+                    Hex Value: 0x22DA
+                    Hex Value: 0x00FF
+
+
+-------------------------------------------------------------------------------
+Address 05: Acc/Start Auth. (J393)       Labels: 8K0-907-064-05.clb
+   Part No SW: 8K0 907 289 C    HW: 8K0 907 289 C
+   Component: BCM2.01       H38 0253  
+   Revision: 00003002    
+   Coding: 031000
+   Shop #: WSC 06325 000 00000
+   VCID: 3979CB6FB0AC49D693D-806C
+
+   Subsystem 1 - Part No SW: 8K0 959 754 AD    HW: 8K0 959 754 AD
+   Component: FBSAUDIB8 IDG  H73 0083 
+
+   Subsystem 2 - Part No SW: 8K0 905 852 C    HW: 8K0 905 852 C
+   Component: ELVAUDIB8  H35 0039 
+
+5 Faults Found:
+02812 - Supply Voltage (Terminal 30) for Electronic Steering Column Lock 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 5
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2024.07.28
+                    Time: 13:09:22
+
+00446 - Function Limitation due to Under-Voltage 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 2
+                    Fault Frequency: 65
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2024.07.28
+                    Time: 13:09:22
+
+01330 - Central Control Module for Central Convenience (J393) 
+            013 - Check DTC Memory
+             Freeze Frame:
+                    Fault Status: 01101101
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 137
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2024.07.28
+                    Time: 13:09:22
+
+00447 - Function Limitation due to Over-Voltage 
+            001 - Upper Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 9
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:02
+
+00955 - Key 1 
+            005 - No or Incorrect Basic Setting / Adaptation - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100101
+                    Fault Priority: 3
+                    Fault Frequency: 1
+                    Reset counter: 178
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:08
+
+
+-------------------------------------------------------------------------------
+Address 06: Seat Mem. Pass (J521)       Labels: 8T0-959-760.clb
+   Part No SW: 8T0 959 760 B    HW: 8T0 959 760 B
+   Component: MEM-BFS       H09 0043  
+   Revision: AA000000    Serial number: 00001001072741
+   Coding: 00217025002C44110000
+   Shop #: WSC 06325 000 00000
+   VCID: 428BAC83DD7A0A0EC27-8017
+
+1 Fault Found:
+02095 - Component Protection Active 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 2
+                    Fault Frequency: 6
+                    Reset counter: 255
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:46:34
+
+
+-------------------------------------------------------------------------------
+Address 07: Control Head        Labels: 8T0-035-7xx-07-H.clb
+   Part No SW: 8T0 035 729 P    HW: 4E0 035 729 A
+   Component: Interfacebox    H43 5170  
+   Revision: 00000000    Serial number: 331CP087521965
+   Coding: 0025002
+   Shop #: WSC 06325 000 00000
+   VCID: 4683B0933152362EEEF-8013
+
+   Subsystem 1 - Part No: 8T0 919 609 
+   Component: E0380 BedienteilH08 0100
+
+   Subsystem 2 - Serial number: 00000000059186
+
+   Subsystem 3 - Serial number: 0115.03.080000000100010289ÿ
+
+   Subsystem 4 - Serial number: 010289ÿ
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 08: Auto HVAC (J255)       Labels: Redir Fail!
+   Part No SW: 8T2 820 043 M    HW: 8T2 820 043 M
+   Component: KLIMA 3 ZONEN H05 0120  
+   Revision: D0000000    Serial number: 0112.03.080065
+   Coding: 48060000
+   Shop #: WSC 06325 000 00000
+   VCID: 3C77D27BBF9E7CFE88B-8069
+
+2 Faults Found:
+00256 - A/C Pressure/Temperature Sensor (G395) 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 2
+                    Fault Frequency: 9
+                    Reset counter: 180
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.22
+                    Time: 18:19:46
+
+             Freeze Frame:
+                    Temperature: 15.0°C
+                    Temperature: 14.0°C
+                    Load: 0.0 %
+                    Absolute Pres.: 1.6 bar
+                    RPM: 1840 /min
+                    Speed: 0.0 km/h
+                    Current: 0.000 A
+                    Temperature: 18.0°C
+
+01206 - Signal for Duration of Ignition Off Time 
+            008 - Implausible Signal - Intermittent
+             Freeze Frame:
+                    Fault Status: 00101000
+                    Fault Priority: 7
+                    Fault Frequency: 4
+                    Reset counter: 178
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:25:46
+
+
+-------------------------------------------------------------------------------
+Address 09: Cent. Elect. (J519)       Labels: 8K0-907-063.clb
+   Part No SW: 8K0 907 063 C    HW: 8K0 907 063 C
+   Component: BCM1 1.0      H21 0253  
+   Revision: 04021001    Serial number: 00000000014848
+   Coding: 260050914014AF010009000000005D5D0F1D038800010141000000
+   Shop #: WSC 06325 000 00000
+   VCID: 2F6DF5377EE897663D9-807A
+
+   Subsystem 1 - Part No SW: 8T2 955 119 C    HW: 8J2 955 119   Labels: 1KX-955-119.CLB
+   Component: WWS 160208  H11 0040 
+   Coding: 00FD11
+
+   Subsystem 2 - Part No SW: 8K0 955 559     HW: 8K0 955 559   Labels: 8K0-955-559.CLB
+   Component: RLS  H04 0003 
+   Coding: 02532C
+
+   Subsystem 3 - Part No SW: 8K0 941 531 G    HW: 8K0 941 531 G
+   Component: E1 - LDS  H07 0070 
+
+2 Faults Found:
+00532 - Supply Voltage B+ 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 3
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:01:00
+
+02095 - Component Protection Active 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 1
+                    Fault Frequency: 6
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:46:00
+
+
+-------------------------------------------------------------------------------
+Address 0E: Media Player 1        Labels: 4E0-910-111.lbl
+   Part No SW: 8T2 035 110 C    HW: 8T2 035 110 C
+   Component: MP3-Changer     H42 0390  
+   Revision: 00042001    Serial number: AUZ5ZBH8336132
+   Shop #: WSC 00000 000 00000
+   VCID: 2B55E1278AF0EB46111-807E
+
+1 Fault Found:
+00446 - Function Limitation due to Under-Voltage 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 7
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Time Indication: 0
+
+
+-------------------------------------------------------------------------------
+Address 10: Park/Steer Assist (J446)       Labels: 8K0-919-475.clb
+   Part No SW: 8K0 919 475 C    HW: 8K0 919 475 A
+   Component: PARKHILFE 8K  H06 0010  
+   Revision: 11001001    Serial number: 75230807807342
+   Coding: 100002
+   Shop #: WSC 06325 000 00000
+   VCID: 3979CB6FB0AC49D693D-806C
+
+1 Fault Found:
+00457 - Control Module for Network (J519) 
+            004 - No Signal/Communication - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:16
+
+             Freeze Frame:
+                    Temperature: 77.0°C
+
+
+-------------------------------------------------------------------------------
+Address 15: Airbags
+Cannot be reached
+
+-------------------------------------------------------------------------------
+Address 16: Steering wheel (J527)       Labels: 8K0-953-568.clb
+   Part No SW: 8K0 953 568 F    HW: 8K0 953 568 F
+   Component: Lenks.Modul   H11 0012  
+   Revision: --------    Serial number: 90304HCJ0001A 
+   Coding: 000012
+   Shop #: WSC 06325 000 00000
+   VCID: 3D71DF7FA48475F6BF5-8068
+
+   Component: E221 - MFL  H02 0003 
+
+2 Faults Found:
+00446 - Function Limitation due to Under-Voltage 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 6
+                    Fault Frequency: 13
+                    Reset counter: 177
+                    Time Indication: 0
+                    Date: 2064.00.00
+                    Time: 00:00:00
+
+00532 - Supply Voltage B+ 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 4
+                    Fault Frequency: 2
+                    Reset counter: 177
+                    Time Indication: 0
+                    Date: 2064.00.00
+                    Time: 00:00:00
+
+
+-------------------------------------------------------------------------------
+Address 17: Instruments (J285)       Labels: 8T0-920-xxx-17.clb
+   Part No SW: 8T0 920 981 C    HW: 8T0 920 981 C
+   Component: KOMBIINSTR.   H28 0216  
+   Revision: 00000000    Serial number: 720338F38     
+   Coding: 2F05010002002600010000
+   Shop #: WSC 06325 000 00000
+   VCID: 3C77D27BBF9E7CFE88B-8069
+
+1 Fault Found:
+00473 - Control Module for Elect. Park/Hand Brake (J540) 
+            004 - No Signal/Communication - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:16
+
+
+-------------------------------------------------------------------------------
+Address 19: CAN Gateway (J533)       Labels: 8T0-907-468.clb
+   Part No SW: 8T0 907 468 F    HW: 8T0 907 468 F
+   Component: GW-BEM 4CAN-M H07 0084  
+   Revision: EB002032    Serial number: 3200E083118050
+   Coding: 000003
+   Shop #: WSC 00485 210 91827
+   VCID: 4487AA9BC76E043EF0B-8011
+
+   Subsystem 1 - Part No SW: 8K0 915 181 B    HW: 8K0 915 181 B
+   Component: J367-BDM  H03 0150 
+
+3 Faults Found:
+03041 - Energy Management Active 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 7
+                    Fault Frequency: 5
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2024.07.09
+                    Time: 09:05:00
+
+01314 - Engine Control Module 
+            004 - No Signal/Communication - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 2
+                    Fault Frequency: 4
+                    Reset counter: 179
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:00
+
+01312 - Powertrain Data Bus 
+            004 - No Signal/Communication - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 1
+                    Fault Frequency: 4
+                    Reset counter: 179
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:00
+
+
+-------------------------------------------------------------------------------
+Address 36: Seat Mem. Drvr (J136)       Labels: 8T0-959-760.clb
+   Part No SW: 8T0 959 760 B    HW: 8T0 959 760 B
+   Component: MEM-FS        H09 0043  
+   Revision: AA000000    Serial number: 00001001072751
+   Coding: 00397325002C44110000
+   Shop #: WSC 06325 000 00000
+   VCID: 428BAC83DD7A0A0EC27-8017
+
+3 Faults Found:
+00446 - Function Limitation due to Under-Voltage 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 3
+                    Fault Frequency: 2
+                    Reset counter: 177
+                    Mileage: 1048574 km
+                    Time Indication: 0
+
+02095 - Component Protection Active 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 2
+                    Fault Frequency: 6
+                    Reset counter: 255
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:46:34
+
+03330 - Motor for Fore/Aft Adjustment 
+            005 - No or Incorrect Basic Setting / Adaptation - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100101
+                    Fault Priority: 4
+                    Fault Frequency: 1
+                    Reset counter: 180
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 01:22:56
+
+
+-------------------------------------------------------------------------------
+Address 37: Navigation        Labels: 4E0-910-88x-37.lbl
+   Part No SW: 4E0 910 888 E    HW: 4E0 919 887 M
+   Component: MNS ECE         H51 1050  
+   Revision: 00000000    Serial number: 333CV087550994
+   Shop #: WSC 00485 210 91827
+   VCID: 306FF64BA3D6889E243-8065
+
+1 Fault Found:
+00446 - Function Limitation due to Under-Voltage 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 7
+                    Fault Frequency: 2
+                    Reset counter: 177
+                    Time Indication: 15
+
+             Freeze Frame:
+                    Hex Value: 0x4721
+                    Hex Value: 0x348F
+                    Hex Value: 0x0045
+
+
+-------------------------------------------------------------------------------
+Address 42: Door Elect, Driver
+Cannot be reached
+
+-------------------------------------------------------------------------------
+Address 46: Central Conv. (J393)       Labels: 8K0-907-064-46.clb
+   Part No SW: 8K0 907 289 C    HW: 8K0 907 289 C
+   Component: BCM2.01       H38 0253  
+   Revision: 00003002    Serial number: 0109950609    
+   Coding: 011B0682003904C0003000
+   Shop #: WSC 06342 000 00000
+   VCID: 3979CB6FB0AC49D693D-806C
+
+   Subsystem 1 - Part No: 8K0 951 177 
+   Component: DWA-Sensor  H02 0030 
+
+   Subsystem 2 - Part No: 1K0 951 605 C
+   Component: LIN BACKUP HO  H03 1301 
+
+5 Faults Found:
+02615 - Fuel Tank Cap; Lock 
+            009 - Open or Short to Ground - Intermittent
+             Freeze Frame:
+                    Fault Status: 00101001
+                    Fault Priority: 2
+                    Fault Frequency: 6
+                    Reset counter: 177
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.20
+                    Time: 16:03:35
+
+02616 - Fuel Tank Cap; Unlock 
+            009 - Open or Short to Ground - Intermittent
+             Freeze Frame:
+                    Fault Status: 00101001
+                    Fault Priority: 2
+                    Fault Frequency: 5
+                    Reset counter: 177
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.22
+                    Time: 18:24:24
+
+00532 - Supply Voltage B+ 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 3
+                    Fault Frequency: 103
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2024.07.28
+                    Time: 13:09:22
+
+00457 - Control Module for Network (J519) 
+            004 - No Signal/Communication - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100100
+                    Fault Priority: 6
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:00
+
+00532 - Supply Voltage B+ 
+            001 - Upper Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 3
+                    Fault Frequency: 2
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:04:37
+
+
+-------------------------------------------------------------------------------
+Address 47: Sound System (J525)       Labels: 8T0-035-223-BOM.clb
+   Part No SW: 8T0 035 223 T    HW: 8T0 035 223 F
+   Component: DSP Prem      H14 0400  
+   Revision: 00H14003    Serial number: 34871001247503
+   Coding: 020101
+   Shop #: WSC 12336 024 394758
+   VCID: 3F8DA577AE8867E6AD9-806A
+
+2 Faults Found:
+00003 - Control Module 
+            014 - Defective
+             Freeze Frame:
+                    Fault Status: 01101110
+                    Fault Priority: 5
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Time Indication: 0
+                    Date: 2064.00.00
+                    Time: 00:02:31
+
+             Freeze Frame:
+                    Voltage: 12.20 V
+                    Temperature: 49.0°C
+                    Temperature: 15.0°C
+                    Bin. Bits: 00000100
+                    Bin. Bits: 01000000
+                    Bin. Bits: 00000000
+
+02095 - Component Protection Active 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 4
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:57:09
+
+             Freeze Frame:
+                    Voltage: 12.80 V
+                    Temperature: 194.0°C
+                    Temperature: 15.0°C
+                    Bin. Bits: 00000100
+
+
+-------------------------------------------------------------------------------
+Address 52: Door Elect, Pass. (J387)       Labels: 8K0-959-792.clb
+   Part No SW: 8K0 959 792     HW: 8K0 959 792 
+   Component: TSG BF        H09 0149  
+   Revision:             Serial number: 	6”
+   Coding: 011C02225E012201
+   Shop #: WSC 06325 000 00000
+   VCID: FCF7927B7F1E3CFE48B-80A9
+
+3 Faults Found:
+00446 - Function Limitation due to Under-Voltage 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 3
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Time Indication: 0
+                    Date: 2064.00.00
+                    Time: 00:00:00
+
+00532 - Supply Voltage B+ 
+            002 - Lower Limit Exceeded - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100010
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 177
+                    Mileage: 1048574 km
+                    Time Indication: 0
+
+00447 - Function Limitation due to Over-Voltage 
+            000 - - - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100000
+                    Fault Priority: 3
+                    Fault Frequency: 1
+                    Reset counter: 177
+                    Mileage: 213536 km
+                    Time Indication: 0
+                    Date: 2007.10.26
+                    Time: 00:00:06
+
+
+-------------------------------------------------------------------------------
+Address 53: Parking Brake (J540)       Labels: 8K0-907-801-V1.clb
+   Part No SW: 8K0 907 801 D    HW: 8K0 907 801 D
+   Component: EPB Audi B8   H04 0050  
+   Revision: 00000003    Serial number: 00000000096647
+   Shop #: WSC 00000 000 00000
+   VCID: 306FF64B63D6889E243-8065
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 55: Xenon Range        Labels: 8K0-907-357.clb
+   Part No: 8K0 907 357 B
+   Component: Dynamische LWR  H01 0010  
+   Revision: 00000001    Serial number:               
+   Coding: 0000002
+   Shop #: WSC 06324 000 00000
+   VCID: 3467FA5B57CEB4BE40B-8061
+
+2 Faults Found:
+00496 - Sensor for Vehicle Leveling; Front 
+            010 - Open or Short to Plus - MIL ON
+             Freeze Frame:
+                    Fault Status: 11101010
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 133
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.20
+                    Time: 15:45:42
+
+02988 - Left-Hand/Right-Hand Traffic Switchover Active 
+            000 - - - MIL ON
+             Freeze Frame:
+                    Fault Status: 11100000
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 133
+                    Mileage: 213520 km
+                    Time Indication: 0
+                    Date: 2024.05.20
+                    Time: 15:45:42
+
+
+-------------------------------------------------------------------------------
+Address 56: Radio        Labels: 4E0-910-541.lbl
+   Part No SW: 4E0 910 541 Q    HW: 4F0 035 541 L
+   Component: TUNER EU/US/RDW H42 0620  
+   Revision: 00000000    Serial number: 336CW087545259
+   Coding: 0000001
+   Shop #: WSC 06325 000 00000
+   VCID: 2E53E833B9E29E6E36F-807B
+
+No fault code found.
+
+-------------------------------------------------------------------------------
+Address 57: TV Tuner        Labels: None
+   Part No SW: 4E0 910 148 D    HW: 4E0 919 148 
+   Component: R78 TVHybridDVB     0440  
+   Revision: R0H06000    Serial number: 76300801327002
+   Coding: 0000203
+   Shop #: WSC 06325 000 00000
+   VCID: 24470A1BE72E243ED0B-8071
+
+No fault code found.
+
+End   ---------------------------------------------------------------------

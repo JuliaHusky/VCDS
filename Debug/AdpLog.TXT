@@ -1,0 +1,15 @@
+Address 17:8P0 920 981 F  channel 2 adapted from 0 to 00000  Wednesday,17,November,2021,16:37:37:62939
+Address 17:8P0 920 982 C  channel 55 adapted from 1012 to 00000  Wednesday,12,October,2022,11:04:25:62939
+Address 17:8P0 920 982 C  channel 54 adapted from 730 to 00730  Wednesday,12,October,2022,11:04:29:62939
+Address 17:8P0 920 982 C  channel 2 adapted from 1 to 00000  Wednesday,12,October,2022,11:06:20:62939
+Address 17:8P0 920 982 C  channel 45 adapted from 1 to 00002  Wednesday,12,October,2022,11:06:24:62939
+Address 17:8P0 920 982 C  channel 42 adapted from 145 to 00145  Wednesday,12,October,2022,11:06:27:62939
+Address 17:8P0 920 982 C  channel 43 adapted from 300 to 00306  Wednesday,12,October,2022,11:06:31:62939
+Address 17:8P0 920 982 C  channel 44 adapted from 730 to 00730  Wednesday,12,October,2022,11:06:36:62939
+Address 17:8P0 920 982 C  channel 49 adapted from 730 to 00730  Wednesday,12,October,2022,11:06:39:62939
+Address 17:8P0 920 982 C  channel 2 adapted from 0 to 00000  Wednesday,12,October,2022,11:07:02:62939
+Address 17:8P0 920 982 C  channel 45 adapted from 2 to 00001  Wednesday,12,October,2022,11:07:07:62939
+Address 17:8P0 920 982 C  channel 50 adapted from 145 to 00150  Wednesday,12,October,2022,11:07:10:62939
+Address 17:8P0 920 982 C  channel 51 adapted from 365 to 00365  Wednesday,12,October,2022,11:07:13:62939
+Address 17:8P0 920 982 C  channel 53 adapted from 514 to 00000  Wednesday,12,October,2022,11:07:41:62939
+Address 17:8P0 920 982 C  channel 52 adapted from 307 to 00190  Wednesday,12,October,2022,11:07:44:62939

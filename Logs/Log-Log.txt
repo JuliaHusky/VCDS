@@ -1,0 +1,404 @@
+Wednesday,17,November,2021,16:32:26:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Adaptation Channel 049:
+Stored value 730
+Minimum Time to Service
+  Min. Value    
+  Insp. in 1    
+  Days    
+  -    
+
+Saturday,06,April,2024,15:59:48:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 01: Engine       Labels: 079-907-560-CAU.clb
+Control Module Part Number: 8T0 907 560 F    HW: 8T0 907 560 
+  Component and/or Version: 4.2l V8/4V    H10 0004
+           Software Coding: 01140003180F0020
+            Work Shop Code: WSC 00720 210 88420
+                      VCID: 3D71DF7FA48475F6BF5-8068
+5 Faults Found:
+
+004200 - Intake Air Switch-Over Valve (N335) 
+               P1068 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212504 km
+                    Time Indication: 0
+                    Date: 2024.04.05
+                    Time: 15:51:48
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 24.7 %
+                    Speed: 0.0 km/h
+                    Temperature: 102.0°C
+                    Temperature: 36.0°C
+                    Absolute Pres.: 1000.0 mbar
+                    Voltage: 14.224 V
+
+001431 - Thermostat for Mapped Engine Cooling (F265) 
+               P0597 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 13
+                    Reset counter: 255
+                    Mileage: 212504 km
+                    Time Indication: 0
+                    Date: 2024.04.05
+                    Time: 15:51:48
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 24.7 %
+                    Speed: 0.0 km/h
+                    Temperature: 102.0°C
+                    Temperature: 36.0°C
+                    Absolute Pres.: 1000.0 mbar
+                    Voltage: 14.224 V
+
+000768 - Random/Multiple Cylinder Misfire Detected 
+               P0300 - 001 -  - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 212525 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 13:12:33
+
+             Freeze Frame:
+                    RPM: 3208 /min
+                    Load: 98.4 %
+                    Speed: 128.0 km/h
+                    Temperature: 84.0°C
+                    Temperature: 21.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 14.097 V
+
+000772 - Cylinder 4 
+               P0304 - 001 - Misfire Detected - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 212525 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 13:12:33
+
+             Freeze Frame:
+                    RPM: 3208 /min
+                    Load: 98.4 %
+                    Speed: 128.0 km/h
+                    Temperature: 84.0°C
+                    Temperature: 21.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 14.097 V
+
+004874 - Cylinder Disabling 
+               P130A - 001 -  - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 2
+                    Reset counter: 255
+                    Mileage: 212559 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 13:42:49
+
+             Freeze Frame:
+                    RPM: 3485 /min
+                    Load: 97.2 %
+                    Speed: 138.0 km/h
+                    Temperature: 76.0°C
+                    Temperature: 21.0°C
+                    Absolute Pres.: 980.0 mbar
+                    Voltage: 14.097 V
+
+
+Readiness: 0010 0001
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Address 01: DTCs clearedSaturday,06,April,2024,16:00:16:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+
+
+                Address 01: Engine       Labels: 079-907-560-CAU.clb
+Control Module Part Number: 8T0 907 560 F    HW: 8T0 907 560 
+  Component and/or Version: 4.2l V8/4V    H10 0004
+           Software Coding: 01140003180F0020
+            Work Shop Code: WSC 00720 210 88420
+                      VCID: 3D71DF7FA48475F6BF5-8068
+Fault Codes have been Erased
+
+2 Faults Found:
+004200 - Intake Air Switch-Over Valve (N335) 
+               P1068 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212592 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 14:54:42
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 31.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 87.0°C
+                    Temperature: 54.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.970 V
+
+001431 - Thermostat for Mapped Engine Cooling (F265) 
+               P0597 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212592 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 14:54:42
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 31.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 87.0°C
+                    Temperature: 54.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.970 V
+
+
+Readiness: 0110 1101
+Saturday,06,April,2024,17:02:58:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+                Address 01: Engine       Labels: 079-907-560-CAU.clb
+Control Module Part Number: 8T0 907 560 F    HW: 8T0 907 560 
+  Component and/or Version: 4.2l V8/4V    H10 0004
+           Software Coding: 01140003180F0020
+            Work Shop Code: WSC 00720 210 88420
+                      VCID: 3D71DF7FA48475F6BF5-8068
+5 Faults Found:
+
+004200 - Intake Air Switch-Over Valve (N335) 
+               P1068 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212592 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 14:54:42
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 31.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 87.0°C
+                    Temperature: 54.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.970 V
+
+001431 - Thermostat for Mapped Engine Cooling (F265) 
+               P0597 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 49
+                    Reset counter: 255
+                    Mileage: 212592 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 14:54:42
+
+             Freeze Frame:
+                    RPM: 607 /min
+                    Load: 31.0 %
+                    Speed: 0.0 km/h
+                    Temperature: 87.0°C
+                    Temperature: 54.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.970 V
+
+000768 - Random/Multiple Cylinder Misfire Detected 
+               P0300 - 001 -  - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 212598 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 15:11:32
+
+             Freeze Frame:
+                    RPM: 4562 /min
+                    Load: 61.9 %
+                    Speed: 65.0 km/h
+                    Temperature: 99.0°C
+                    Temperature: 28.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.843 V
+
+000772 - Cylinder 4 
+               P0304 - 001 - Misfire Detected - Intermittent - MIL ON
+             Freeze Frame:
+                    Fault Status: 10100001
+                    Fault Priority: 2
+                    Fault Frequency: 3
+                    Reset counter: 255
+                    Mileage: 212598 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 15:11:32
+
+             Freeze Frame:
+                    RPM: 4562 /min
+                    Load: 61.9 %
+                    Speed: 65.0 km/h
+                    Temperature: 99.0°C
+                    Temperature: 28.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.843 V
+
+004874 - Cylinder Disabling 
+               P130A - 001 -  - Intermittent
+             Freeze Frame:
+                    Fault Status: 00100001
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212603 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 15:15:08
+
+             Freeze Frame:
+                    RPM: 3453 /min
+                    Load: 100.0 %
+                    Speed: 137.0 km/h
+                    Temperature: 92.0°C
+                    Temperature: 21.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 14.224 V
+
+
+Readiness: 0110 1001
+Saturday,06,April,2024,17:03:20:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+
+
+                Address 01: Engine       Labels: 079-907-560-CAU.clb
+Control Module Part Number: 8T0 907 560 F    HW: 8T0 907 560 
+  Component and/or Version: 4.2l V8/4V    H10 0004
+           Software Coding: 01140003180F0020
+            Work Shop Code: WSC 00720 210 88420
+                      VCID: 3D71DF7FA48475F6BF5-8068
+Fault Codes have been Erased
+
+2 Faults Found:
+004200 - Intake Air Switch-Over Valve (N335) 
+               P1068 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212626 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 15:57:57
+
+             Freeze Frame:
+                    RPM: 592 /min
+                    Load: 32.1 %
+                    Speed: 0.0 km/h
+                    Temperature: 92.0°C
+                    Temperature: 53.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.843 V
+
+001431 - Thermostat for Mapped Engine Cooling (F265) 
+               P0597 - 004 - Open Circuit
+             Freeze Frame:
+                    Fault Status: 01100100
+                    Fault Priority: 2
+                    Fault Frequency: 1
+                    Reset counter: 255
+                    Mileage: 212626 km
+                    Time Indication: 0
+                    Date: 2024.04.06
+                    Time: 15:57:57
+
+             Freeze Frame:
+                    RPM: 592 /min
+                    Load: 32.1 %
+                    Speed: 0.0 km/h
+                    Temperature: 92.0°C
+                    Temperature: 53.0°C
+                    Absolute Pres.: 990.0 mbar
+                    Voltage: 13.843 V
+
+
+Readiness: 0110 1101

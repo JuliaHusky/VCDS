@@ -1,0 +1,26 @@
+Saturday,27,January,2024,19:47:55:62939
+VCDS -- Windows Based VAG/VAS Emulator
+VCDS Version: Release 12.12.0 (x64)
+Data version: 20130910
+
+
+Mileage: 99360km-61739mi   Repair Order: 
+
+
+Gateway Installation List:  1K0 907 530 F
+
+00-Steering Angle Sensor -- Status: OK 0000
+01-Engine -- Status: Malfunction 0010
+03-ABS Brakes -- Status: Malfunction 0010
+08-Auto HVAC -- Status: OK 0000
+09-Cent. Elect. -- Status: OK 0000
+15-Airbags -- Status: OK 0000
+16-Steering wheel -- Status: OK 0000
+17-Instruments -- Status: OK 0000
+19-CAN Gateway -- Status: Malfunction 0010
+25-Immobilizer -- Status: Malfunction 0010
+42-Door Elect, Driver -- Status: OK 0000
+44-Steering Assist -- Status: OK 0000
+46-Central Conv. -- Status: OK 0000
+52-Door Elect, Pass. -- Status: OK 0000
+56-Radio -- Status: Cannot be reached 1100
